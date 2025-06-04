@@ -1,0 +1,8 @@
+train: ../yolu/yolu_dataset/images/train/
+val: ../yolu/yolu_dataset/images/val/
+
+# Número de classes
+nc: 2
+
+# Nomes das classes
+names: ['free_parking', 'occupied_parking']
